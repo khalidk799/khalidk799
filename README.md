@@ -11,7 +11,7 @@
  - Pronouns(He/Him/His)
 
 ![Pablochocobae Stats](https://github-readme-stats.vercel.app/api?username=pablochocobae&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FC6401&icon_color=7F1DA2&bg_color=0D111700)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pablochocobae&show_icons=true&locale=en" alt="pablochocobae" />
+
 
 <img align="right" src="https://komarev.com/ghpvc/?username=your-github-pablochocobae&style=flat-square&color=232323">
 <hr>
