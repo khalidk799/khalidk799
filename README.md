@@ -6,7 +6,6 @@
  - 👋 I am Currently working on improving my 
  - 👩‍💻 Python   |  C++   |  Java  |   HTML  |   CSS   |   Javascript | React | Node 
  - 🌐 Learning Web Development  
- - 💭 I am intrested in projects that involve problem solving
  - ⚡ Fun fact: Beat me In Scribble and I owe you 1000 Bucks
  - 📝 I write articles on [www.thetechinfinite.com](https://www.thetechinfinite.com/author/khalid/)
  - Pronouns(He/Him/His)
