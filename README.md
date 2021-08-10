@@ -4,7 +4,7 @@
 ### <p align="center"> <u>Also Known as Pablochocobae  </u></p>
 
  - 👋 I am Currently working on improving my 
- - 👩‍💻 Python   |  C++   |  Java  |   HTML  |   CSS   |   Javascript | React | Node 
+ - 👩‍💻 Python   |  C++   |  HTML  |   CSS   |   Javascript | React | Node 
  - 🌐 Learning Web Development  
  - ⚡ Fun fact: Beat me In Scribble and I owe you 1000 Bucks
  - 📝 I write articles on [www.thetechinfinite.com](https://www.thetechinfinite.com/author/khalid/)
