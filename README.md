@@ -1,7 +1,6 @@
 ## <p align="center">Hello there,</p>
 >> # <p align="center">I'm Khalid Khan - Sort Of </p>
 
-### <p align="center"> <u>Also Known as Pablochocobae  </u></p>
 
 
 <p align="left"> <a href="https://twitter.com/_khalidkhan_" target="blank"><img src="https://img.shields.io/twitter/follow/_khalidkhan_?logo=twitter&style=for-the-badge" alt="_khalidkhan_" /></a> </p>
