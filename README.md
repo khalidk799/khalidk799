@@ -20,7 +20,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1A-myi29Uqz_nhEVY_AEpun7NgK9b5xlj/view?usp=sharing](https://drive.google.com/file/d/1A-myi29Uqz_nhEVY_AEpun7NgK9b5xlj/view?usp=sharing)
 
-- Thank you for sponsoring me -> @oko199g
 
 - ⚡ Fun fact **I think I keep my place clean**
 
